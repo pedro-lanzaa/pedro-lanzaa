@@ -4,7 +4,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
+- 👨‍🎓 **Graduação**: Estudante de Engenharia de Software na PUC Minas.
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
@@ -33,8 +33,8 @@ Breve descrição do projeto e suas tecnologias principais.
 
 ## Contato
 
-- **E-mail:** [pedrooliveiralanza@gmail.com]
-- **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
+- **E-mail:** pedrooliveiralanza@gmail.com
+- **Instagram:** https://www.instagram.com/_pedrolanza_/
+- **LinkedIn:** https://www.linkedin.com/in/pedro-lanza-a179b82b6/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
