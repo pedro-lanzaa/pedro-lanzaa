@@ -10,12 +10,11 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
+- **Linguagens de Programação:** C
+- **Desenvolvimento Web:** HTML, CSS
+- **Banco de Dados:** MySQL
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
 
 ## Projetos Destacados
 
