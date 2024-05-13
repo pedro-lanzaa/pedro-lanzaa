@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pedro Lanza - Portfólio de Projetos
+# Pedro Lanza - 100% BOLSONARO/22
 
 ### Estudante de Engenharia de Software na PUC Minas
 
