@@ -1,39 +1,56 @@
-# Perfil do Estudante de Engenharia de Software - PUC Minas
+<div align="center">
 
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+# Pedro Lanza - Portfólio de Projetos
+
+### Estudante de Engenharia de Software na PUC Minas
+
+<img src="https://i.imgur.com/XXrd2m1.jpg" alt="PUC Minas Logo" width="200"/>
+
+</div>
+
+---
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: Estudante de Engenharia de Software na PUC Minas.
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+Olá! Meu nome é **Pedro Lanza** e sou estudante de Engenharia de Software na **PUC Minas**. Estou atualmente matriculado na disciplina de **Algoritmos e Estrutura de Dados**, onde estou desenvolvendo vários projetos que demonstram minhas habilidades e compreensão desses conceitos fundamentais.
 
-## Habilidades
+Neste espaço, compartilharei o progresso e os detalhes dos projetos realizados durante o curso, além de explorar como cada um contribui para a minha jornada de aprendizado em Ciência da Computação.
 
-- **Linguagens de Programação:** C
-- **Desenvolvimento Web:** HTML, CSS
-- **Banco de Dados:** MySQL
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
+---
 
-## Projetos Destacados
+## Projetos
 
-### [Nome do Projeto]
+Cada projeto nesta seção é parte do meu curso de Algoritmos e Estrutura de Dados, abordando problemas práticos e aplicando técnicas aprendidas em sala de aula.
 
-Breve descrição do projeto e suas tecnologias principais.
+### Projeto 1: Nome do Projeto
 
-### [Nome do Projeto]
+- **Descrição:** Breve descrição do que o projeto faz e quais problemas ele resolve.
+- **Tecnologias Utilizadas:** Java, Python, etc.
+- **Status:** Em desenvolvimento / Concluído.
+- **Repositório:** [Link do Repositório](#)
 
-Breve descrição do projeto e suas tecnologias principais.
+### Projeto 2: Nome do Projeto
 
-## Contribuições
+- **Descrição:** Breve descrição do que o projeto faz e quais problemas ele resolve.
+- **Tecnologias Utilizadas:** Java, Python, etc.
+- **Status:** Em desenvolvimento / Concluído.
+- **Repositório:** [Link do Repositório](#)
 
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+---
+
+## Competências
+
+- **Linguagens de Programação:** Java, Python
+- **Ferramentas e Frameworks:** Git, Docker
+- **Soft Skills:** Resolução de problemas, Trabalho em equipe, Comunicação eficaz
+
+---
 
 ## Contato
 
-- **E-mail:** pedrooliveiralanza@gmail.com
-- **Instagram:** https://www.instagram.com/_pedrolanza_/
-- **LinkedIn:** https://www.linkedin.com/in/pedro-lanza-a179b82b6/
+Para mais informações, sugestões de colaboração ou perguntas, fique à vontade para me conectar:
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
+- **Email:** [email@example.com](mailto:email@example.com)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)
+- **GitHub:** [GitHub](https://github.com/yourusername)
+
