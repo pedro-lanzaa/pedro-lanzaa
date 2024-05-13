@@ -201,10 +201,10 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-lanzaa&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedro-lanzaa&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedro-lanzaa&theme=github_dark"/>
 </div>
 
 -----
