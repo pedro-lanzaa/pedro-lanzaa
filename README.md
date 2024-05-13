@@ -4,7 +4,7 @@
 
 ### Estudante de Engenharia de Software na PUC Minas
 
-<img src="https://i.imgur.com/XXrd2m1.jpg" alt="PUC Minas Logo" width="200"/>
+<img src="https://br.pinterest.com/pin/606156431119303025/" alt="PUC Minas Logo" width="200"/>
 
 </div>
 
