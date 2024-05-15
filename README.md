@@ -50,7 +50,9 @@
 
 <div align="justify">
 -Meu nome é Pedro Oliveira Lanza, nasci em 30 de novembro de 2005. Iniciei minha trajetória acadêmica no Colégio Marista Padre Eustáquio, onde desenvolvi interesse pela tecnologia e programação.
--Além das disciplinas regulares, dediquei-me ao estudo da língua inglesa na Cultura Inglesa, ao longo de uma década, alcançando fluência no idioma.
+
+ -Além das disciplinas regulares, dediquei-me ao estudo da língua inglesa na Cultura Inglesa, ao longo de uma década, alcançando fluência no idioma.
+
 -Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnologia, ingressei no curso de Engenharia de Software na PUC Minas, no ano seguinte. Estou ansioso para os desafios e aprendizados que estão por vir.
 
 
