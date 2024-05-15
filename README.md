@@ -26,13 +26,9 @@
 </td>
 <td><a href="https://www.linkedin.com/in/pedro-lanza" target="_blank"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
