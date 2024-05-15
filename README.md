@@ -208,7 +208,7 @@
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=5gbaepjd5zbi3sv0jcdsvcps9&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="280px" height="300px" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=5gbaepjd5zbi3sv0jcdsvcps9&count=5"/>
+<img alt="Spotify list" width="300px" height="320px" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=5gbaepjd5zbi3sv0jcdsvcps9&count=5"/>
 </div>
 <div>
 <details>
