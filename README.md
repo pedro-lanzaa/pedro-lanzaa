@@ -282,15 +282,15 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 <td><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
-<a href="https://www.linkedin.com/in/pedro-lanzaa/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pedro-lanza/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pedro-lanzaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5531980402103" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://discordapp.com/users/959151773728251914" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/680792674252750895" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/22lih5eniohc7dawfxohlo7wy?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://us05web.zoom.us/j/2425760565?pwd=aDR1L3RRY2x4U09iWDVTRWxxMjdmQT09" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a><br />
 <a href="https://meet.google.com/ova-vvcq-hbx" target="_blank"><img alt="Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
 <a href="https://slack.com/app_redirect?channel=UVD9N6VCL" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
-<a href="https://www.instagram.com/pedro-lanzaa/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_pedrolanza_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/" target="_blank"><img alt="PSN" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/pedro-lanzaa/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
 <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img alt="Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
