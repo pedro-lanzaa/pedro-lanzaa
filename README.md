@@ -272,7 +272,7 @@
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+<td><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/pedro-lanza" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
