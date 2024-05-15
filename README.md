@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/Purple%20Modern%20Gaming%20Banner%20Landscape.gif?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/2222.gif?raw=true"/>
 </div>
 
 -----
