@@ -261,7 +261,7 @@
 <br />
 <img alt="Followers" src="https://img.shields.io/github/followers/pedro-lanzaa?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/pedro-lanzaa?style=social"/>
-<a href="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/pix.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/pix.jpg?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
