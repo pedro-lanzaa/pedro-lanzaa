@@ -221,7 +221,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/pedro-lanzaa/pedro-lanzaa/assets/5998)
+[Post Malone. - Big Jet Plane - Live Cover](https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/5998.mp4)
 
 </details>
 </div>
