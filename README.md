@@ -282,7 +282,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 <td><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
-<a href="https://www.linkedin.com/in/pedro-lanza/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://https://www.linkedin.com/in/pedro-lanza-a179b82b6/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pedro-lanzaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5531980402103" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://discordapp.com/users/680792674252750895" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
