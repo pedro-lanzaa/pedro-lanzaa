@@ -403,7 +403,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 <a href="https://github.com/pedro-lanzaa" target="_blank"><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/pedro-lanzaa" target="_blank">© 2024 Aramuni</a><br />
+| Créditos: <a href="https://github.com/pedro-lanzaa" target="_blank">© 2024 Lanza</a><br />
 | Última atualização: 13/03/2024
 </td>
 </tr>
