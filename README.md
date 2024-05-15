@@ -71,7 +71,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/2121.gif?raw=true" width="500px" height="340px"/>
+<img align="right" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/2121.gif?raw=true" width="340px" height="200px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
