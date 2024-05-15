@@ -221,7 +221,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/pedro-lanzaa/pedro-lanzaa/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/pedro-lanzaa/pedro-lanzaa/assets/5998)
 
 </details>
 </div>
