@@ -379,7 +379,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 </tr> 
 <tr>
 <td>
-<a href="mailto:pedro-lanzaa@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
+<a href="mailto:pedro-lanzaa@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/github-header-img.png?raw=true" alt="github-footer2"/></a>
 </td>
 <td>
 <a href="https://github.com/pedro-lanzaa" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
