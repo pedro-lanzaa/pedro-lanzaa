@@ -416,7 +416,7 @@ Em 2023, concluí o ensino médio e, impulsionado pela minha paixão por tecnolo
 -----
 
 <div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/footer-gray.gif?raw=true"/>
+<img align="center" alt="Footer" width="1200px" height="40px" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
 
 <!-- Obrigado pela visita! -->
