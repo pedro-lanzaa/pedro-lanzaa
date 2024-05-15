@@ -261,7 +261,7 @@
 <br />
 <img alt="Followers" src="https://img.shields.io/github/followers/pedro-lanzaa?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/pedro-lanzaa?style=social"/>
-<a href="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/pix.jpg?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
@@ -272,7 +272,7 @@
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/pix.png?raw=true" width="70px" height="70px"/></td>
+<td><img src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/pix.jpg?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/pedro-lanza" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
