@@ -65,7 +65,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/2121.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/2121.gif?raw=true" width="300px" height="200px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
