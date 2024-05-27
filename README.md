@@ -210,14 +210,14 @@
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=5gbaepjd5zbi3sv0jcdsvcps9&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" align= "right" src="https://spotify-recently-played-readme.vercel.app/api?user=5gbaepjd5zbi3sv0jcdsvcps9&count=10"/>
 </div>
+<!--
 <div>
 <details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Post Malone. - Big Jet Plane - Live Cover](https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/5998.mp4)
-
+<summary>:headphones: :guitar: :drum:</summary> [Post Malone. - Big Jet Plane - Live Cover](https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/5998.mp4)
 </details>
 </div>
+-->
+ 
 </div>
 
 -----
