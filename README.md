@@ -198,44 +198,17 @@
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/img/spotify.gif?raw=true"/> Lanza's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=5gbaepjd5zbi3sv0jcdsvcps9" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=pedrolanzaaa&width=350"/></a>
+<a href="https://www.last.fm/pt/user/pedrolanzaaa" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=pedrolanzaaa&width=400"/></a>
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=5gbaepjd5zbi3sv0jcdsvcps9&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" align= "right" src="https://spotify-recently-played-readme.vercel.app/api?user=5gbaepjd5zbi3sv0jcdsvcps9&count=10"/>
-</div>
-<!--
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary> [Post Malone. - Big Jet Plane - Live Cover](https://github.com/pedro-lanzaa/pedro-lanzaa/blob/main/5998.mp4)
-</details>
-</div>
--->
- 
-</div>
-
------
-
-<div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
-</details>
-</div>
-<div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=5gbaepjd5zbi3sv0jcdsvcps9&count=10"/>
 </div>
 <div>
 <details>
